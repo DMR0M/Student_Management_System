@@ -1,0 +1,17 @@
+Project Requirements
+
+Visuals:
+- GUI (Graphical User Interface)
+
+
+Functionalities to support:
+
+CRUD
+- View (ID, Name, Course, Contact Number)
+- Insert Record
+- Update Record
+- Delete Record
+
+Organize
+- Search Record
+- Sort Record
